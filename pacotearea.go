@@ -1,4 +1,4 @@
-package gorea
+package goarea
 
 import "math"
 
